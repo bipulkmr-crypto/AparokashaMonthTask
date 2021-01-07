@@ -31,7 +31,7 @@ int main()
     rep(i,n-1)
     {
         cin>>n;
-        sum2+=n;
+        
     }
     cout<<(sum1-sum2)<<endl;
 }
